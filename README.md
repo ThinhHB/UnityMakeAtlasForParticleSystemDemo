@@ -1,7 +1,7 @@
 # Make atlas texture for ParticleSystem, reduce drawcall
 
 This's a sample about how to make an Atlas texture for ParticleSystem in Unity3D, to reduce drawcall.
-I wrote a [post](https://thinhhb.wordpress.com/2016/03/27/unity3d-optimization-make-atlas-textures-for-particlesystem-reduce-drawcall-why-not/) on my blog about how to do i, take a look for more details.
+I wrote a [post](https://thinhhb.wordpress.com/2016/03/27/unity3d-optimization-make-atlas-textures-for-particlesystem-reduce-drawcall-why-not/) on my blog about how to do it, take a look for more details.
 
 Here's the comparison between Using and NotUsing atlas texture for particleSystem:
 -----
